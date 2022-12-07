@@ -15,6 +15,6 @@ Access from : http://localhost:8080
 
 ## To remove docker image
 
-`docker rmi chmadhus/web-server-2:hyderabad`
+`docker rmi chmadhus/web-server-3:bangalore`
 
 
